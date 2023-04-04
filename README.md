@@ -17,3 +17,10 @@ Crawlering the [YatchWorld.com](https://www.yachtworld.com/boats-for-sale/type-s
 ### Crawler_For_More_Features
 Crawlering the [SailboatData.com](https://sailboatdata.com/?paginate=25&page=1） for more sailboat specifications like length, beam, displacement, etc. We can gather features of over 1,500 types of sailboat from the site. But pratically speaking, it is suggested to crawl related information basing on the the searching results website with sample's "Make", "Variant", "Year" as key words. Which is the latest version of the code.
 
+## File Contents for thesis
+* 2332034.pdf is the final version of thesis we uploaded for problem Y.
+* The contents in Chinese given by the teammate who is responsible for test how fit the algorithm is for our training dataset. 
+* Other related files.
+
+## File Figures for thesis
+The pictures we used in our thesis.
